@@ -6,3 +6,12 @@ if(a>b){
 } else {
     console.log('B é a maior variável')
 }
+
+let numero = 0;
+
+let botao = document.getElementById("botao");
+
+botao.onclick = function () {
+    numero++;
+    document.getElementById("contador").innerHTML = numero;
+}
