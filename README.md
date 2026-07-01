@@ -24,7 +24,7 @@ O sistema utiliza uma inteligência artificial altamente treinada em projetos le
 ## Como rodar
 
 1. Clone este repositório:
-   git clone https://github.com/seu-usuario/detector-de-gambiarra.git
+   git clone https://github.com/Davi-Noah/repositorioTeste
 
 2. Acesse a pasta do projeto:
    cd detector-de-gambiarra
